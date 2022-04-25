@@ -18,6 +18,7 @@ I'm also a singer, song-writer & vocal coach. i love keeping fit, and i play spo
 - ***JAVASCRIPT***
 - ***JQUERY***
 - ***NODE & EXPRESS JS***
+- ***SVELTE***
 - ***TYPESCRIPT***
 - ***JAVA***
 - ***PHP***
